@@ -29,7 +29,7 @@ Your task is to complete the implementation of the Top Trumps software, by imple
 **Luckily, a complete version of the most complex of the classes have survived.** Clone the following repo to get all the Java code that is left of the project.
 
 ```bash
-git clone https://scc-source.lancs.ac.uk/scc.Y1/scc.111/Week19
+git clone https://github.com/finneyj/dinosaur-top-trumps
 ```
 
 In the repo you will find two java classes. **TopTrumps and PlayerWindow**. ***These two classes are complete. You are not permitted to change them in your solution.***
